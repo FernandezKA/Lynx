@@ -1,0 +1,3 @@
+[submodule "esp32-cam-module"]
+	path = esp32-cam-module
+	url = git@github.com:FernandezKA/esp32-cam-module.git
