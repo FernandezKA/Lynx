@@ -4,3 +4,6 @@
 [submodule "server-module"]
 	path = server-module
 	url = git@github.com:FernandezKA/server-module.git
+[submodule "lynx-server-recorder"]
+	path = lynx-server-recorder
+	url = https://github.com/Xen1k/lynx-server-recorder/
