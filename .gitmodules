@@ -7,3 +7,6 @@
 [submodule "lynx-server-recorder"]
 	path = lynx-server-recorder
 	url = https://github.com/Xen1k/lynx-server-recorder/
+[submodule "lynx-frontend"]
+	path = lynx-frontend
+	url = https://github.com/Xen1k/lynx-frontend
